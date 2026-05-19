@@ -1,0 +1,13 @@
+-- Postgres Schema
+--CREATE TABLE IF NOT EXISTS countries (
+--    id BIGINT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+--    name VARCHAR(255) NOT NULL,
+--    capital VARCHAR(255)
+--);
+
+-- H2 Database Schema
+--CREATE TABLE IF NOT EXISTS countries (
+--    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+--    name VARCHAR(255) NOT NULL,
+--    capital VARCHAR(255)
+--);

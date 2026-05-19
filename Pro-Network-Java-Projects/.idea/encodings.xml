@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Real-Time-Streaming-Kafka-Debezium-Spark-Streaming/Real-Time-App/Back-End/real-time-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apache-kafka-with-spring-boot-reactive/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apache-kafka-with-spring-boot-reactive/kafka-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apache-kafka-with-spring-boot-reactive/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/common-library/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/payment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/service-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/shipping-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-microservices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ride_fast/ride_fast_backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/file-storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/job-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/user-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
