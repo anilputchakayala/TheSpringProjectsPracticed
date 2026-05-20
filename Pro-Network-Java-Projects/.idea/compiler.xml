@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="notification-service (1) (com.hacisimsek)" />
         <module name="ride_fast_backend" />
         <module name="real-time-app" />
         <module name="kafka-demo" />
@@ -20,6 +21,7 @@
         <module name="auth-service" />
         <module name="inventory-service" />
         <module name="payment-service" />
+        <module name="notification-service (2) (com.safalifter)" />
         <module name="api-gateway" />
         <module name="producer" />
         <module name="order-service" />
@@ -45,7 +47,9 @@
       <module name="job-service" options="-parameters" />
       <module name="kafka-demo" options="-parameters" />
       <module name="notification-service" options="-parameters" />
+      <module name="notification-service (1) (com.hacisimsek)" options="-parameters" />
       <module name="notification-service (1) (com.safalifter)" options="-parameters" />
+      <module name="notification-service (2) (com.safalifter)" options="-parameters" />
       <module name="order-service" options="-parameters" />
       <module name="payment-service" options="-parameters" />
       <module name="producer" options="-parameters" />
